@@ -13,7 +13,7 @@ Data From: https://www.kaggle.com/datasets/mexwell/employee-performance-and-prod
   <h2>Libraries Required:</h2>
     <ul>
         <li><strong>pandas</strong> – Data handling</li>
-        <li><strong>sklearn</strong> – Machine learning/li>
+        <li><strong>sklearn</strong> – Machine learning</li>
         <li><strong>matplotlib</strong> – Data visualization</li>
     </ul>
 <h2>Algorithm Used:</h2>    
